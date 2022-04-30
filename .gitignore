@@ -1,5 +1,5 @@
 /.venv
-input_test.csv
-input.csv
-labels_test.csv
-labels.csv
+pinput_label.csv
+pinput_test_label.csv
+pinput.csv
+pinput_test.csv
