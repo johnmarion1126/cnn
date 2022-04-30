@@ -1,5 +1,5 @@
 ## cnn
-Basic example project of a convolutional neural network.
+A basic convolutional neural network made with keras.
 
 ## Installation
 1. Fork repo
