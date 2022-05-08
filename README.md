@@ -1,13 +1,9 @@
 ## cnn
-A basic convolutional neural network made with keras.
-
-## Installation
-1. Fork repo
-2. Pull repo into local computer
-3. `cd` into project
-4. `pipenv install` to install dependencies
-5. Download [dataset](https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD) into project
-5. Run and check if `cnn.ipynb` is working properly
+A basic convolutional neural network made with keras. Our model takes a random image and classifies it as either Pikachu or Raichu.
+</br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/48599206/167316735-ff1484a0-ab43-4c0c-895f-586d0f2c3ca1.png" />
+</div>
 
 ## Resources
 * [Convolutional Neural Network](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu)
